@@ -1,7 +1,7 @@
 **Kecerdasan Buatan**
 
  <p align="center">
-  <img src="../../img/kecerdasanbuatan.JPG" width="400px">
+  <img src="../../img/tugas1.JPG" width="400px">
 </p
 
 **Latar Belakang**
