@@ -2,7 +2,7 @@
 
  <p align="center">
   <img src="../../img/ai.PNG" width="400px">
- </p
+ 
 
 **Latar Belakang**
 
@@ -38,7 +38,7 @@ Jika dilihat dari contohnya yaitu Efektif membunuh nyamuk. Efektif disini yaitu 
 
  <p align="center">
   <img src="../../img/tugas1.PNG" width="400px">
- </p
+
 
 Adapun contoh lain yaitu:
 
