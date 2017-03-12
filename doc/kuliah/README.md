@@ -1,7 +1,8 @@
 **Kecerdasan Buatan**
 
- <img src="https://github.com/SuriadiZainuddin/SuriadiZainuddin-144092/blob/master/img/kecerdasanbuatan.JPG" width="400px"> </p> 
-
+ <p align="center">
+  <img src="../../img/kecerdasanbuatan.JPG" width="400px">
+</p
 
 **Latar Belakang**
 
