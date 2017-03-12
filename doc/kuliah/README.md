@@ -1,8 +1,8 @@
 **Kecerdasan Buatan**
 
  <p align="center">
-  <img src="../../img/tugas1.JPG" width="400px">
-</p
+  <img src="../../img/1.JPG" width="400px">
+ </p
 
 **Latar Belakang**
 
@@ -36,7 +36,9 @@ Jadi bisa diartikan efisien dapat diartikan dengan cepat.
 
 Jika dilihat dari contohnya yaitu Efektif membunuh nyamuk. Efektif disini yaitu dapat diartikan ampuh dari ampuh tersebut yaitu dapat diartikan dengan tepat sasaran. Jadi dapat diartikan bahwa efektif yaitu tepat sasaran.
 
-<img src="https://github.com/SuriadiZainuddin/SuriadiZainuddin-1144092/blob/master/img/tugas1.JPG" width="400px"> </p> 
+ <p align="center">
+  <img src="../../img/tugas1.JPG" width="400px">
+ </p
 
 Adapun contoh lain yaitu:
 
