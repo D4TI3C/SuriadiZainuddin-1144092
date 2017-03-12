@@ -37,7 +37,7 @@ Jadi bisa diartikan efisien dapat diartikan dengan cepat.
 Jika dilihat dari contohnya yaitu Efektif membunuh nyamuk. Efektif disini yaitu dapat diartikan ampuh dari ampuh tersebut yaitu dapat diartikan dengan tepat sasaran. Jadi dapat diartikan bahwa efektif yaitu tepat sasaran.
 
  <p align="center">
-  <img src="../../img/tugas1.PNG" width="400px">
+  <img src="../../img/tugas1.JPG" width="400px">
 
 
 Adapun contoh lain yaitu:
