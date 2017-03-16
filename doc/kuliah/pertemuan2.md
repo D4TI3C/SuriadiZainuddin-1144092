@@ -1,7 +1,7 @@
 **Representasi Pengetahuan**
 
 <p align="center">
-  <img src="../../img/a.JPG" width="600px">
+  <img src="../../img/a.JPG" width="400px">
  
  
 **Latar Belakang**
