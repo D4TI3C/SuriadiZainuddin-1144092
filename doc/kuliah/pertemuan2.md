@@ -1,7 +1,7 @@
 **Representasi Pengetahuan**
 
 <p align="center">
-  <img src="../../img/a.JPG" width="400px">
+  <img src="../../img/tugas2.JPG" width="400px">
  
  
 **Latar Belakang**
@@ -33,6 +33,10 @@ Penjelasan
   3.  Pengetahuan adalah  [informasi](https://id.wikipedia.org/wiki/Informasi) atau maklumat yang diketahui atau disadari oleh seseorang.
   4. Hubungan antara tahu dengan paham, jika kita tahu belum tentu kita paham, sedangkan jika kita paham udah pasti kita tahu. Proses yang mengubah tahu menjadi paham adalah Berfikir, karena dengan berfikir kita dapat menjadi paham apa yang kita tahu.
   5. Fakta merupakan hal, keadaan, atau peristiwa yang merupakan kenyataan atau sesuatu yang benar-benar terjadi. Contoh : Suriadi adalah laki – laki. Jika di bahasa pemrograman contohnya : laki – laki (Suriadi)
+
+
+<p align="center">
+  <img src="../../img/tugas2.JPG" width="400px">
 
 Penutup
 
