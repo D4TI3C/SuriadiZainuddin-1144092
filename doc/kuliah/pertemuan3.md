@@ -1,7 +1,7 @@
 **Representasi Pengetahuan**
 
 <p align="center">
-  <img src="../../img/2.JPG" width="400px">
+  <img src="../../img/tugas3.JPG" width="400px">
 
 **Latar Belakang Masalah**
 
