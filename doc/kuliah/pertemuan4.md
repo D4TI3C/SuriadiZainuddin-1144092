@@ -56,6 +56,9 @@ c. Pohon AND/OR
 
 <p align="center">
   <img src="../../img/43.JPG" width="400px">
+
+<p align="center">
+  <img src="../../img/tugas4.JPG" width="400px">
  
 Penutup
 
