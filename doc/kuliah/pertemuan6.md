@@ -58,4 +58,9 @@ Dari gambar diatas dapat dijelaskan sebagai berikut:
 
 § Apabila seseorang berusia 35 tahun kurang 1 hari, maka ia dikatakan TIDAK PAROBAYA (µPAROBAYA[35 – 1hr] = 0);
 
+Kesimpulan :
+Logika fuzzy adalah suatu cara yang tepat untuk memetakan suatu ruang input dalam suatu ruang output dan memiliki nilai yang berlanjut. Kelebihan logika fuzzy ada pada kemampuan penalaran secara bahasa. Sehingga, dalam perancangannya tidak memerlukan persamaan matematis yang kompleks dari objek yang akan dikendalikan.
+
+Saran: 
+untuk memahami materi tersebut maka solusi baiknya adalah pelajari kemudian praktik langsung
 
